@@ -1,0 +1,5 @@
+ ProjectName > Properties > C/C++ > All Options > Enable Minimal Rebuild => No (/Gm)
+
+ ProjectName > Properties > General > C++ Language Standard => /std:c++latest
+
+으로 설정을 변경하시기 바랍니다.
