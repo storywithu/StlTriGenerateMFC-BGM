@@ -1,0 +1,4 @@
+# StlTriGenerateMFC-BGM
+Actually I DON'T WANT TO OPEN it to public.
+IT IS MYSELF IDEA&ALGORITHM~
+PLZ DO NOT COPY MY CODE~
